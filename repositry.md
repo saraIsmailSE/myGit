@@ -2,4 +2,4 @@
 ### Hello!
 
 name: Sara 
-Did ir Remotly
+Did it Remotly
